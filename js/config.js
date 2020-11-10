@@ -1,6 +1,6 @@
-var DATASET_ID = 'ciwm29xyd00082tmocm5l6osb';
-var DATASETS_BASE = 'https://api.mapbox.com/datasets/v1/chennaiflood/' + DATASET_ID + '/';
-var DATASETS_ACCESS_TOKEN = 'sk.eyJ1IjoiY2hlbm5haWZsb29kIiwiYSI6ImNpaG9mOGljdTBibmN0aGo3NWR6Y3Q0aXQifQ.X73YugnJDlhZEhxz2X86WA';
-var PUBLIC_ACCESS_TOKEN = 'pk.eyJ1IjoicGxhbmVtYWQiLCJhIjoiemdYSVVLRSJ9.g3lbg_eN0kztmsfIPxa9MQ';
+var DATASET_ID = 'ckh4lcauk066d24r8a6dcc06y';
+var DATASETS_BASE = 'https://api.mapbox.com/datasets/v1/karthikeyankuppu1/' + DATASET_ID + '/';
+var DATASETS_ACCESS_TOKEN = 'pk.eyJ1Ijoia2FydGhpa2V5YW5rdXBwdTEiLCJhIjoiY2toYmppaGZlMDhqajJyb2d4ZTNsMTB4dCJ9.hhf_23B9XQfe9l2njyiS1g';
+var PUBLIC_ACCESS_TOKEN = 'pk.eyJ1Ijoia2FydGhpa2V5YW5rdXBwdTEiLCJhIjoiY2toM2Jla3o4MGswODJycGRuNzFzbG9oeCJ9.RWvh-3f8v857LeFnLMp5qg';
 var STYLESHEET = 'mapbox://styles/planemad/cih4qzr0w0012awltzvpie7qa';
 var LOAD_INFO_LAYERS = ['chennai-relief-camps', 'chennai-relief-camps-22nov'];
